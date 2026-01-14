@@ -1,14 +1,6 @@
-
-"""
-# Additional visualization
-# Core ML & API (existing)
-# Streamlit & Web Frontend
-# Utilities
-Add to existing requirements.txt or create separate streamlit_requirements.txt
 aiofiles==23.2.1
 alembic==1.12.1
 altair==5.1.0
-Create a unified requirements file that includes Streamlit
 fastapi==0.104.1
 httpx==0.25.1
 implicit==0.7.2
