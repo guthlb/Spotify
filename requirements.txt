@@ -21,7 +21,6 @@ scipy==1.11.4
 seaborn==0.13.0
 spotipy==2.22.1
 sqlalchemy==2.0.23
-streamlit-components-html==0.1.0
 streamlit-plotly-events==0.0.6
 streamlit-theme-buttons==0.1.0
 streamlit==1.31.1
